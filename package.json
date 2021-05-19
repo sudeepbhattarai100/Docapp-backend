@@ -1,0 +1,31 @@
+{
+  "name": "doctorappointmentsystem",
+  "version": "1.0.0",
+  "description": "Web Application on Doctor Appointment ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softwarica-github/t2-backendapi-sudeepbhattarai100.git"
+  },
+  "author": "Sudeep Bhattarai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/softwarica-github/t2-backendapi-sudeepbhattarai100/issues"
+  },
+  "homepage": "https://github.com/softwarica-github/t2-backendapi-sudeepbhattarai100#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.5",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.4",
+    "time-slots-generator": "^1.0.6"
+  }
+}
